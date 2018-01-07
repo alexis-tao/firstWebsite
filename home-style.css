@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	vertical-align: center;
+     }
+
+#text {
+   	background: white;
+   	font-family:'Inconsolata'; 
+	margin-top: 200px;
+     }
+#name {
+	font-size: 30px;
+	color: #6086c4; 
+
+      }
+#links {
+	font-size: 25px;
+	color: #6086c4; 
+      }
+#about-me {
+	width: 500px;
+    	margin: auto;
+	font-size: 20px;
+     }
+
