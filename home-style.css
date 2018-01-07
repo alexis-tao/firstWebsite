@@ -7,26 +7,25 @@ body {
 	font-size:20px;
      }
 #name {
-	float:left;
 	font-size: 40px;
 	color: #ce5676; 
       }
-
 #about-me {
 	font-size: 20px;
      }
-#ig {
-	width:100;
-	height:100;
-}
-#links {
-	color: #6086c4; 
-	text-align: right;
-}
 #studyblog{
 	color: #6086c4;	
 }
-
+#lumstudies {
+	color: #ce5676;
+	font-size: 20px;
+	text-decoration: none;
+}
+#ig {
+	width:100;
+	height:100;
+	text-align: center;
+}
 #projects{
 	color: #6086c4; 
 }
@@ -35,12 +34,20 @@ body {
 	font-size: 20px;
 	text-decoration: none;
 }
-#lum {
+#srcshots {
+	text-align:center;
+}
+#link {
 	color: #ce5676;
 	font-size: 20px;
 	text-decoration: none;
 }
-#srcs {
+#pics-of-page {
 	text-align:center;
 }
+#footer {
+	text-align: center;
+	color: #6086c4;	
+}
+
 
