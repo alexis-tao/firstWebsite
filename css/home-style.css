@@ -1,0 +1,62 @@
+body {
+	margin-top: 50px;
+	margin-left: 100px; 
+	margin-right: 100px;
+	font-family:'Inconsolata'; 
+	text-align: left;
+	font-size:20px;
+     }
+#name {
+	font-size: 40px;
+	color: #ce5676; 
+      }
+#about-me {
+	font-size: 20px;
+     }
+#studyblog{
+	color: #6086c4;	
+}
+#lumstudies {
+	color: #ce5676;
+	font-size: 20px;
+	text-decoration: none;
+}
+#ig {
+	width:100;
+	height:100;
+	text-align: center;
+}
+#projects{
+	color: #6086c4; 
+}
+#sleepnow {
+	color: #ce5676;
+	font-size: 20px;
+	text-decoration: none;
+}
+#srcshots {
+	text-align:center;
+}
+#link {
+	color: #ce5676;
+	font-size: 20px;
+	text-decoration: none;
+}
+#pics-of-page {
+	text-align:center;
+}
+#interests{
+	color: #6086c4;	
+}
+#photography {
+	color: #ce5676;
+}
+#photos {
+	text-align: center;
+}
+#footer {
+	text-align: center;
+	color: #6086c4;	
+}
+
+
